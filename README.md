@@ -1,7 +1,9 @@
 # Oi, eu sou a Ana Beatriz! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br />
 * 📅 Tenho 19 anos de idade.
-* 📚 Cursando em Gestão da tecnologia da informação [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
+* 
+* 📚 Cursando em Gestão da tecnologia da informação pela <a href="http://www.fatecguaratingueta.edu.br/">Fatec Guaratinguetá</a>.
+* 
 * 👩‍💻 Dados / Python / Sql.
 <hr/>
 <br />
